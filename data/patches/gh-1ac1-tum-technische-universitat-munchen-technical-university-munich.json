@@ -1,0 +1,45 @@
+{
+	"id": -1,
+	"name": "TUM-Technische Universität München (Technical University Munich)",
+	"description": "TUM is a university in Munich, Germany, currently considered the best technical university in Germany. They're part of the \"Exzellenz Initiative\" (Excellence Initiative) aimed to support certain universities in germany and make them more competetive internationaly.",
+	"links": {
+		"website": [
+			"https://www.tum.de/",
+			"https://en.wikipedia.org/wiki/German_Universities_Excellence_Initiative",
+			"https://en.wikipedia.org/wiki/Technical_University_of_Munich"
+		],
+		"subreddit": [
+			"tumunich"
+		]
+	},
+	"path": {
+		"153": [
+			[
+				-311,
+				-75
+			],
+			[
+				-311,
+				-75
+			],
+			[
+				-287,
+				-75
+			],
+			[
+				-287,
+				-58
+			],
+			[
+				-330,
+				-58
+			]
+		]
+	},
+	"center": {
+		"153": [
+			-304,
+			-66
+		]
+	}
+}
