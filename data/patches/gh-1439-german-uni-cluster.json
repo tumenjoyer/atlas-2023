@@ -1,0 +1,48 @@
+{
+	"id": -1,
+	"name": "German Uni Cluster",
+	"description": "Led and protected by the pioneers of the TUM, which together with the TU Dortmund entered into initial contact with the Südflagge, the cluster of German universities and colleges was created.",
+	"links": {
+		"discord": [
+			"8hgW4fPrJT"
+		]
+	},
+	"path": {
+		"236-237": [
+			[
+				-333,
+				-76
+			],
+			[
+				-237,
+				-76
+			],
+			[
+				-81,
+				-76
+			],
+			[
+				-81,
+				-76
+			],
+			[
+				-80,
+				-57
+			],
+			[
+				-80,
+				-57
+			],
+			[
+				-334,
+				-57
+			]
+		]
+	},
+	"center": {
+		"236-237": [
+			-207,
+			-66
+		]
+	}
+}
